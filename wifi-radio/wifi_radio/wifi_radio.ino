@@ -3,7 +3,7 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-// Конфигурация Wi-Fi
+// Конфигурация Wi-Fi подключения 
 const char* ssid = "HUAWEI-B535-B30E";
 const char* password = "TH8NL2HF42Q";
 
